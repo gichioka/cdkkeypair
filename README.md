@@ -1,1 +1,1 @@
- cdkでEC2とkeypairを合わせて作りました。
+ cdkでEC2とkeypairを合わせて作りました
